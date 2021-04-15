@@ -42,7 +42,7 @@ Exibe os logs do container.
 
 `docker logs name-container -d`
 
-Exibe os logs e fica observando os logs, toda vez que for feito alguma alteração que mostra um feedback ele será exibido.
+Exibe os logs e fica observando os logs, toda vez que for feito alguma alteração que mostra um feedback ele será exibido. 
 
 ### Comandos Docker Compose
 Para rodar os comandos do docker compose é necessário entrar dentro da pasta que esta seu arquivo **docker-compose.yml**
