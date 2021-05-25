@@ -29,7 +29,7 @@ Acessa o container e abre o terminal.
 
 Exibe os logs do container.
 
-`docker logs name-container -d`
+`docker logs name-container -f`
 
 Exibe os logs e fica observando os logs, toda vez que for feito alguma alteração que mostra um feedback ele será exibido. 
 
