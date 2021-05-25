@@ -77,4 +77,13 @@ Deve ser possível realizar a devolução de um carro
 - Ao realizar a devolução, o usuário deverá ser liberado para outro aluguel;
 - Ao realizar a devolução, deverá ser calculado o total do aluguel;
 - Caso o horário de devolução seja superior ao horário previsto de entrega, deverá ser cobrado multa proporcinal aos dias de atraso;
-- Caso haja multa, deverá ser somado ao total de aluguel.
+- Caso haja multa, deverá ser somado ao total de aluguel;
+- - O usuário não precisa estar logado no sistema.
+
+# Listagem de alugueis para usuários
+
+**RF**
+Deve ser possível realizar a busca de todos os alugueis para o usuário
+
+**RN**
+O usuário deve estar logado na aplicação
