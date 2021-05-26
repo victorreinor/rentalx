@@ -23,7 +23,7 @@ class CreateCategoryUseCase {
     if (categoryAlreadyExists) {
       throw new AppError('Category already exists!');
     }
-    console.log('aqui nome né', name);
+
     this.categoriesRepository.create({ name, description });
   }
 }
